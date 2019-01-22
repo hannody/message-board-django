@@ -1,0 +1,16 @@
+{
+"folders": [
+	{
+		"path": "mb_project"
+	},
+	{
+		"path": "posts"
+	},
+	{
+		"path": "templates"
+	}
+],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
